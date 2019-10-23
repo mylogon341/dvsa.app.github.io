@@ -1,0 +1,25 @@
+{
+    "webcredentials": {
+        "apps": [
+            "F9ZXT3C227.com.lukeSadler.DVSA.dev",
+            "F9ZXT3C227.com.lukeSadler.DVSA.prod"
+        ]
+    },
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "F9ZXT3C227.com.lukeSadler.DVSA.dev",
+                "paths": [
+                    "*"
+                ]
+            },
+            {
+                "appID": "F9ZXT3C227.com.lukeSadler.DVSA.prod",
+                "paths": [
+                    "*"
+                ]
+            }
+        ]
+    }
+}
